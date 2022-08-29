@@ -1,0 +1,19 @@
+/* styles.css */
+
+body {
+    background-color: coral;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pages {
+    background-color: green;
+    color: aliceblue;
+    font-size: 21px;
+}
+
+.head {
+    color: brown;
+    background-color: chartreuse;
+    font-size: 36px;
+    font-weight: 800;
+}
